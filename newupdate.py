@@ -4,8 +4,8 @@ import numpy as np
 import datetime as dt
 import click
 
-# This is change 2, a1
-# This is change 2, a2. These changes will be the second commit.
+# This is change 3, a1
+# This is change 3, a2. These changes will be the third and last commit.
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
