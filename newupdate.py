@@ -4,6 +4,9 @@ import numpy as np
 import datetime as dt
 import click
 
+# This is change 1, a1
+# This is change 1, a2. These changes will be the first commit.
+
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
